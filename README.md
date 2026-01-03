@@ -1,4 +1,4 @@
- # 📊 Splunk Notes
+ #  Splunk Notes
 
 This repository contains my learning notes and queries
 from Splunk labs and SOC practice.
